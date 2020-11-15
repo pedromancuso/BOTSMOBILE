@@ -1,2 +1,0 @@
-# BOTSMOBILE
- Mobile Cordova App
